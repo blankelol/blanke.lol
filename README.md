@@ -16,9 +16,7 @@ Next.js · React · TypeScript · Vercel
 
 ## Around the web
 
-[Website](https://blanke.lol) · [GitHub](https://github.com/benjamin-blanke) · [Instagram](https://instagram.com/benjaminoliverblanke) · [Opus Host](https://opus-host.de)
-
-[Discord community](https://discord.gg/waveserv) · [Read about Opus Host](https://blanke.lol/blog/how-i-built-opus-host)
+[Website](https://blanke.lol) · [GitHub](https://github.com/blankelol) · [Instagram](https://instagram.com/benjaminoliverblanke) · [WaveServ](https://waveserv.com)
 
 ---
 
