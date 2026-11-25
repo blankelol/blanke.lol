@@ -101,10 +101,6 @@ Continuously refined with new ideas, improvements, and details.
 
 <br />
 
-<sub>▲ Hosted, made and maintained by Benjamin.</sub>
+<br>
 
-<br />
-
-[blanke.lol](https://blanke.lol)
-
-</div>
+<p align="center"><img src="cat.webp" alt="" width="120"><br><sub>Made by Benjamin <a href="https://blanke.lol">blanke.lol</a></sub></p>
